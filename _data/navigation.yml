@@ -2,14 +2,14 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Project"
+    url: /project/
+
   - title: "Research"
     url: /research/
 
   - title: "Timeline"
     url: /timeline/
-
-  - title: "Resources"
-    url: /resources/
 
   - title: "About"
     url: /about/
