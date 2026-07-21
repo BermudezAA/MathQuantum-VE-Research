@@ -1,0 +1,78 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* ---------- Typography ---------- */
+
+.page__title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+}
+
+.page__content h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2.8rem;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.page__content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+/* ---------- Width ---------- */
+
+.page {
+  max-width: 900px;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  border-radius: 6px;
+  font-weight: 500;
+  padding: 0.45rem 1rem;
+}
+
+/* ---------- Feature Cards ---------- */
+
+.feature__item {
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  padding: 1.2rem;
+}
+
+.feature__item .archive__item-title {
+  font-size: 1.2rem;
+}
+
+.feature__item p {
+  font-size: 0.95rem;
+}
+
+/* ---------- Navigation ---------- */
+
+.masthead {
+  border-bottom: 1px solid #ececec;
+}
+
+.greedy-nav a {
+  font-weight: 500;
+}
+
+/* ---------- TOC ---------- */
+
+.toc {
+  display: none;
+}
