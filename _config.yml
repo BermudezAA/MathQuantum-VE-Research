@@ -13,28 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Quantum-Inspired Optimization for Venezuelan Microenterprises"
+title: "Quantum-Inspired Optimization"
 
 name: "Adrian Bermudez"
-description: > # this means to ignore newlines until "baseurl:"
-    MathQuantum High School Fellowship Research Project
+
+description: >
+  MathQuantum High School Fellowship
 
 url: "https://bermudezaa.github.io"
 
 baseurl: "/MathQuantum-VE-Research"
 
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: "contrast"
+
 search: true
+
+permalink: pretty
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -54,7 +54,6 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -62,9 +61,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Adrian Bermudez"
-  bio: "MathQuantum High School Fellow"
-  location: "Houston, Texas"
+  name: Adrian Bermudez
+  bio: MathQuantum High School Fellow
+  location: Houston, Texas
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
