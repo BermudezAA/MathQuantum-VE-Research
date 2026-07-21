@@ -3,45 +3,44 @@ layout: single
 title: "Project"
 permalink: /project/
 author_profile: false
-classes: wide
 ---
 
-> This page presents the project's motivation, background, mathematical foundations, and long-term objectives as part of the MathQuantum High School Fellowship.
+This page provides an overview of the project, including its motivation, background, mathematical foundations, and long-term objectives.
 
 ---
 
 ## Project Idea
 
-*Coming soon.*
+...
 
 ---
 
 ## Background
 
-*Coming soon.*
+...
 
 ---
 
 ## Motivation
 
-*Coming soon.*
+...
 
 ---
 
-## Mathematical Tools & Techniques
+## Complementary Video
 
-*Coming soon.*
+...
 
 ---
 
 ## Goals
 
-*Coming soon.*
+...
 
 ---
 
 ## References
 
-1. *Coming soon.*
+1.
 
-2. *Coming soon.*
+2.
