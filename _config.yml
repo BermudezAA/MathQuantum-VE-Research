@@ -52,6 +52,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+sass:
+  style: compressed
+  
 # Plugins (previously gems:)
 plugins:
   - jekyll-sitemap
