@@ -2,40 +2,57 @@
 layout: single
 title: "Project"
 permalink: /project/
-toc: true
-toc_sticky: true
+toc: false
+author_profile: false
 ---
 
-# Project Idea
+This page provides an overview of the project, including its motivation, mathematical context, and long-term objectives as part of the MathQuantum High School Fellowship.
+
+---
+
+### Quick Navigation
+
+- [Project Idea](#project-idea)
+- [Background](#background)
+- [Motivation](#motivation)
+- [Complementary Video](#complementary-video)
+- [Goals](#goals)
+- [References](#references)
+
+---
+
+## Project Idea
 
 *Coming soon.*
 
 ---
 
-# Background
+## Background
 
 *Coming soon.*
 
 ---
 
-# Motivation
+## Motivation
 
 *Coming soon.*
 
 ---
 
-# Complementary Video
+## Complementary Video
 
 *Coming soon.*
 
 ---
 
-# Goals
+## Goals
 
 *Coming soon.*
 
 ---
 
-# References
+## References
 
-*Coming soon.*
+1. *Coming soon.*
+
+2. *Coming soon.*
