@@ -6,14 +6,12 @@ author_profile: false
 ---
 
 **Project Overview**
-
 This page summarizes the motivation, mathematical foundation, and long-term objectives of the project.
 
 ---
 
 ### Contents
-
-01 • Project Idea
+# 01 • Project Idea
 
 02 • Background
 
