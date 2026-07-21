@@ -25,7 +25,7 @@ baseurl: "/MathQuantum-VE-Research"
 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "catppuccin_mocha"
 search: true
 
 # Build settings
