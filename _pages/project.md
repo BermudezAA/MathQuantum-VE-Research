@@ -52,12 +52,6 @@ To create a clear, reproducible computational framework (Python/GitHub) that dem
 
 ## Complementary Video
 
-*A complementary video will be added here.*
-
----
-
-## Complementary Video
-
 **Optimization Problem on Quantum Computers – Lecture 1**
 
 Yassine Hamoudi, *Optimization problem on quantum computers – Lecture 1*, CEMRACS Quantum Computing Summer School, CIRM (2025).
@@ -87,7 +81,7 @@ Implement the full model in Python/GitHub, including quantum-inspired and classi
 
 ### Venezuelan Roots
 
-Keep cultural and personal context central as the narrative motivation, not as an empirical economics study.
+Keep cultural and personal context central to the narrative motivation.
 
 ---
 
