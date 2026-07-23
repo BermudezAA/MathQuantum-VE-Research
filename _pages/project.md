@@ -11,13 +11,13 @@ This page presents the motivation, background, and objectives of my MathQuantum 
 
 ## Project Idea
 
-This project develops a quantum-inspired optimization model for decision-making under uncertainty, motivated by Venezuelan micro-enterprises. The core is a stylized, parameterized problem in which a firm chooses production and/or investment levels given uncertain future demand and prices. The decision space is encoded into a small quantum circuit (using qubits, superposition, and a variational/QAOA-style ansatz), and measurement outcomes are interpreted as candidate decisions. Linear algebra and probability are used to define an objective (e.g., expected profit with a risk penalty) and to analyze the resulting decision distributions. A Python/GitHub implementation will compare this quantum-inspired approach against classical baselines on synthetic scenarios, providing a computational foundation that can later be extended with real or more realistic data.
+This project develops a quantum-inspired optimization model for decision-making under uncertainty, motivated by Venezuelan micro-enterprises. The crux of the research is a stylized, parameterized problem in which a firm chooses production and/or investment levels given uncertain future demand and prices. The decision space is encoded into a small quantum circuit (using qubits, superposition, and a variational/QAOA-style ansatz), and measurement outcomes are interpreted as candidate decisions. Linear algebra and probability are used to define an objective (e.g., expected profit with a risk penalty) and to analyze the resulting decision distributions. A Python/GitHub implementation will compare this quantum-inspired approach against classical baselines on synthetic scenarios, providing a computational foundation that can later be extended with real or more realistic data.
 
 ---
 
 ## Background
 
-MathQuantum introduces core quantum information concepts such as qubits, gates, superposition, entanglement, and simple quantum-inspired algorithms (variational circuits, QAOA-style ansatz) that can encode small optimization problems. These tools provide a natural language for representing uncertainty and discrete decision spaces in a compact, mathematically precise way.
+The MathQuantum Research Training Group's High School Fellowship introduces core quantum information concepts such as qubits, gates, superposition, entanglement, and simple quantum-inspired algorithms (variational circuits, QAOA-style ansatz) that can encode small optimization problems. These tools provide a natural language for representing uncertainty and discrete decision spaces in a compact, mathematically precise way.
 
 Venezuelan micro-enterprises (e.g., small shops, artisanal workshops, food stands) operate under high uncertainty in prices, demand, and supply conditions due to drastic political and economic circumstances. Rather than modeling specific real firms, this project defines a stylized decision problem that captures key features of such environments:
 
@@ -25,14 +25,12 @@ Venezuelan micro-enterprises (e.g., small shops, artisanal workshops, food stand
 - Stochastic demand and/or price modeled via simple probability distributions (e.g., normal, lognormal, or scenario-based).
 - An objective function combining expected profit and a simple risk measure (e.g., variance, downside risk, or Conditional Value-at-Risk).
 
-Recent work in quantum computing and quantum-inspired optimization has explored applications in finance, operations research, and decision-making under uncertainty, showing how quantum algorithms can represent and sample from complex probability distributions and optimization landscapes. This project situates itself at the intersection of these ideas and the local Venezuelan context, as a formal, computational model that:
+Recent work in quantum computing and quantum-inspired optimization has explored applications in finance, operations research, and decision-making under uncertainty; this shows how quantum algorithms can represent and sample from complex probability distributions and optimization landscapes. This project combines these aforementioned ideas with the local Venezuelan context, eventually resulting in a formal, computational model that will:
 
-- Is fully specified mathematically.
-- Is implemented in Python with reproducible simulations.
-- Compares quantum-inspired and classical strategies on synthetic scenarios.
-- Is designed so that more realistic or empirical data can be incorporated in future work.
-
-In this sense, the project is not "just a toy model," but a research prototype: a minimal, well-posed problem that can be analyzed rigorously, extended systematically, and eventually calibrated to real or more detailed data.
+- Be fully specified mathematically.
+- Be implemented in Python with reproducible simulations.
+- Compare quantum-inspired and classical strategies on synthetic scenarios.
+- Be designed so that more realistic or empirical data can be incorporated in future work.
 
 ---
 
@@ -40,11 +38,11 @@ In this sense, the project is not "just a toy model," but a research prototype: 
 
 ### Scientific Motivation
 
-To formulate and analyze a well-posed, quantum-inspired optimization model for decision-making under uncertainty, using tools from MathQuantum (basic circuits, measurements, linear algebra, probability) and connecting them to economic concepts such as risk and resilience.
+To formulate and analyze a well-posed, quantum-inspired optimization model for decision-making under uncertainty, using tools learned from MathQuantum (basic circuits, measurements, linear algebra, probability) and connecting them to economic concepts such as risk and resilience.
 
 ### Personal / Venezuelan Roots
 
-To connect an engineering mindset and Venezuelan background to quantum information science by grounding the model in challenges faced by local micro-enterprises, while maintaining mathematical rigor and avoiding over-claiming.
+To connect an engineering mindset and Venezuelan background to Quantum Information Science (QIS) by grounding the model in challenges faced by local micro-enterprises, while maintaining mathematical rigor and avoiding over-claiming.
 
 ### Educational Motivation
 
@@ -58,6 +56,17 @@ To create a clear, reproducible computational framework (Python/GitHub) that dem
 
 ---
 
+## Complementary Video
+
+**Optimization Problem on Quantum Computers – Lecture 1**
+
+Yassine Hamoudi, *Optimization problem on quantum computers – Lecture 1*, CEMRACS Quantum Computing Summer School, CIRM (2025).
+
+<https://www.youtube.com/watch?v=Y1aMUhRfzLU>
+
+This lecture provides an accessible introduction to quantum optimization and variational algorithms, including many of the concepts that motivate this project, such as parameterized quantum circuits, optimization landscapes, and quantum approaches to solving discrete optimization problems.
+
+---
 ## Goals
 
 ### Quantum Information / Physics
