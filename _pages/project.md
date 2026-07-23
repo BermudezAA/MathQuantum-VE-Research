@@ -52,9 +52,9 @@ To create a clear, reproducible computational framework (Python/GitHub) that dem
 
 ## Complementary Video
 
-**Optimization Problem on Quantum Computers – Lecture 1**
+**Optimization Problem on Quantum Computers - Lecture 1**
 
-Yassine Hamoudi, *Optimization problem on quantum computers – Lecture 1*, CEMRACS Quantum Computing Summer School, CIRM (2025).
+Yassine Hamoudi, *Optimization problem on quantum computers - Lecture 1*, CEMRACS Quantum Computing Summer School, CIRM (2025).
 
 <https://www.youtube.com/watch?v=Y1aMUhRfzLU>
 
